@@ -1,7 +1,7 @@
 var http = require('http');
 
 var hostname = '0.0.0.0';
-var port = 80;
+var port = process.env.PORT || 5000;
 
 http.createServer(function (req, res) {
     var uri = decodeURIComponent(req.url.substr(1));

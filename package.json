@@ -3,7 +3,7 @@
   "license": "BSD",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "http://github.com/disjukr/sandreq.git"
   },
   "dependencies": {
     "request": "latest"

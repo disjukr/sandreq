@@ -1,0 +1,11 @@
+{
+  "name": "sandreq",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "request": "latest"
+  }
+}
